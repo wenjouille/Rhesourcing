@@ -1,0 +1,8 @@
+media: assets
+
+content:
+  - name: pages
+    label: Pages
+    type: file
+    path: index.html
+    format: raw
